@@ -1,4 +1,3 @@
-# Postman Collection (in progress)
-Example of requests in Postman
+# Postman Collection
 
-[List of employees](https://api.postman.com/collections/23932209-daf5b680-2587-4cfe-a9a4-a6a20086d37b?access_key=PMAT-01GQPB00AH3K0NQGT6DYRW903B)
+Example: [User Information](https://web.postman.co/workspace/36fa2ee2-76d2-4230-8d1e-9fb8fb696f47/run/23932209-0d8f2fca-5364-4bd5-ba3e-ed4d92fadd0d)
